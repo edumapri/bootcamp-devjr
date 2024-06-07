@@ -1,0 +1,20 @@
+
+git init - Inicia do repositório local, geralmente esse comando é executado somente uma vez dentro de um projeto.
+
+git add . - Adiciona todos os arquivos pendentes para a área de stage.
+
+git config --global user.name "seu_user_name" - Configura o user.name do git (Executado somente para configurar ou mudar o user.name).
+ 
+git config --global user.email "seu_email" - Configura o user.email do git (Executado somente para configurar ou mudar o user.email).
+ 
+git commit -m "mensagem" - Cria uma nova versão do projeto e envia todos os arquivos do stage para o repositório local.
+
+git branch -M main" - Move do branch atual para o branch main.
+
+git remote add apelido endereço - Define o endereço do repositório remoto (GitHub).
+    Exemplo: git remote add origin https://github.com/edumapri/bootcamp-devjr.git
+
+git push -u apelido_do_remote nome_do_branch - Envia para o endereço remoto (GitHub) uma nova versão do projeto, ao final, tanto o repositório local como remoto terão a mesma versão.
+
+
+
