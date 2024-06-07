@@ -16,5 +16,11 @@ git remote add apelido endereço - Define o endereço do repositório remoto (Gi
 
 git push -u apelido_do_remote nome_do_branch - Envia para o endereço remoto (GitHub) uma nova versão do projeto, ao final, tanto o repositório local como remoto terão a mesma versão.
 
+Clonando um repositório remoto do GitHub.
 
+Comando git:
+ git clone endereço_do_repositório - Cria um repositório local a partir de um repositório remoto (clone).
+
+Comando VSCode:
+ code . - Abre a pasta corrente como projeto dentro do VSCode.
 
