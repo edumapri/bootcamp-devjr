@@ -24,3 +24,5 @@ Comando git:
 Comando VSCode:
  code . - Abre a pasta corrente como projeto dentro do VSCode.
 
+git log - Mostra o log do repositório
+
